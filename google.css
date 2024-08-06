@@ -1,0 +1,94 @@
+#textlogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 220px;
+}
+
+.form-control-search {
+    border: 0.5px solid rgb(212, 212, 212);
+    width: 550px;
+    border-radius: 50px;
+    margin-left: 580px;
+    margin-top: 20px;
+    height: 43px;
+    padding: 5px;
+    outline: #f8f9fa;
+    font-family: Arial, sans-serif;
+    color: #3c4043;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control-search:hover {
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.buttons {
+    margin-top: 30px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#googlesearch {
+    border: 0.5px solid #f8f9fa;;
+    text-align: center;
+    border-radius: 4px;
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+    height: 36px;
+    min-width: 54px;
+    background-color: #f8f9fa;
+    color: #3c4043;
+}
+
+#feelinglucky {
+    border: 0.5px solid #f8f9fa;
+    text-align: center;
+    border-radius: 4px;
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+    height: 36px;
+    min-width: 54px;
+    background-color: #f8f9fa;
+    color: #3c4043;
+}
+
+#feelinglucky:hover {
+    border: 0.5px solid  rgb(153, 153, 153);
+    border-radius: 4px;
+}
+
+#googlesearch:hover {
+    border: 0.5px solid  rgb(153, 153, 153);
+    border-radius: 4px;
+}
+
+.links {
+    color: inherit;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: right;
+    margin-right: 2em;
+    margin-top: 1.5em;
+}
+
+#gmail {
+    color: black;
+    text-decoration: none;
+}
+
+#images {
+    color: black;
+    text-decoration: none;
+}
+
